@@ -1,1 +1,1 @@
-# pureJavaScriptProjects
+# Web Projects With Pure JavaScript
