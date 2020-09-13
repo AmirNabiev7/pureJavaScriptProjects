@@ -14,7 +14,7 @@
 </tr>
  <tr>
 <td align="center">02</td>
-<td align="center"><a href="https://github.com/AmirNabiev7/pureJavaScriptProjects/tree/master/movieSeatsBooking">movie Seats Booking</a></td>
+<td align="center"><a href="https://github.com/AmirNabiev7/pureJavaScriptProjects/tree/master/movieSeatsBooking">Movie Seats Booking</a></td>
 </tr>
 
 </tbody>
