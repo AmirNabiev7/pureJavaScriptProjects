@@ -1,7 +1,8 @@
-#Movie Seat Booking
+h2. Movie Seat Booking
+
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
-#Project Specifications
+h2. Project Specifications
 <ul>
 <li>Display UI with movie select, screen, seats, legend &amp; seat info</li>
 <li>User can select a movie/price</li>
