@@ -1,8 +1,8 @@
 
-h2. Custom Video Player
+<h2>Custom Video Player</h2>
 <p>Custom video player using the HTML5 video element and it's JavaScript API with a custom design</p>
 
-h2. Project Specifications
+<h2>Project Specifications</h2>
 <ul>
 <li>Display custom video player styled with CSS</li>
 <li>Play/pause</li>
