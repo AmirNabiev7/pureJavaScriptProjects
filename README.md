@@ -26,6 +26,7 @@
 <tr>
 <td align="center">04</td>
 <td align="center"><a href="https://github.com/AmirNabiev7/pureJavaScriptProjects/tree/master/exchangeRateCalculator">Exchange Rate Calculator</a></td>
+ <td align="center"><a href="https://codepen.io/Amir_7/full/NWNmXdO" target="_blank">Live Demo</a></td>
 </tr>
 
 </tbody>
