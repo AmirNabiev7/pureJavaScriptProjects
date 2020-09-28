@@ -5,6 +5,7 @@
 <tr>
 <th align="center">#</th>
 <th align="center">Project</th>
+<th align="center">Live Demo</th>
 </tr>
 </thead>
 <tbody>
