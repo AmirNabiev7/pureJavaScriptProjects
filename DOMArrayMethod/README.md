@@ -1,8 +1,8 @@
 
-#DOM Array Methods
+<h2>DOM Array Methods</h2>
 <p>Project to teach high order array methods and DOM manipulation<p>
 
-#Project Specifications
+<h2>Project Specifications</h2>
 <ul>
 <li>Fetch random users from the randomuser.me API</li>
 <li>Use forEach() to loop and output user/wealth</li>
