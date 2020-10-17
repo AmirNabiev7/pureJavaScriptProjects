@@ -31,7 +31,7 @@
 <tr>
  <td align="center">05</td> 
 <td align="center"><a href="https://github.com/AmirNabiev7/pureJavaScriptProjects/tree/master/DOMArrayMethod">Exchange Rate Calculator</a></td>
- <td align="center"><a href="https://profinance.ru" target="_blank">Live Demo</a></td>
+ <td align="center"><a href="https://codepen.io/Amir_7/full/NWrNJYp" target="_blank">Live Demo</a></td>
  </tr>
 </tbody>
 </table>
