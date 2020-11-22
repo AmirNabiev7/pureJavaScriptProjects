@@ -33,5 +33,10 @@
 <td align="center"><a href="https://github.com/AmirNabiev7/pureJavaScriptProjects/tree/master/DOMArrayMethod">Exchange Rate Calculator</a></td>
  <td align="center"><a href="https://codepen.io/Amir_7/full/NWrNJYp" target="_blank">Live Demo</a></td>
  </tr>
+ <tr>
+ <td align="center">06</td> 
+<td align="center"><a href="https://github.com/AmirNabiev7/pureJavaScriptProjects/tree/master/menuSlider">Menu slider and Modal</a></td>
+ <td align="center"><a href="https://codepen.io/Amir_7/full/NWrNJYp" target="_blank">Live Demo</a></td>
+ </tr>
 </tbody>
 </table>
